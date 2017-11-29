@@ -1,0 +1,4 @@
+[submodule "kingdom"]
+	path = kingdom
+	url = https://github.com/dwcoates/kingdom
+	branch = SFDemo
